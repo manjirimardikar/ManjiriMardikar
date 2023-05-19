@@ -21,6 +21,9 @@
 <a href="https://www.linkedin.com/in/manjari-mardikar-520161215/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="Noah" height="30"/></a>
+         <a href="mailto:manjari.mardikar28@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Noah" height="30"/></a>
 </p>
 <h3>Language & Tools :<h3/>
   <h3 align="center">Language</h3>
