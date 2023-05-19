@@ -18,7 +18,7 @@
       
 
 <h3 align="left">Connect with me:</h3>
-           <img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" width="400">
+           <img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" width="350">
 <p align="left">
 <a href="https://www.linkedin.com/in/manjari-mardikar-520161215/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
