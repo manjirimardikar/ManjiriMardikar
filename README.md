@@ -15,9 +15,10 @@
 
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1nZM89dLVScEOivKzkZVfIboRbnT_xlIGIoQOcK9Ioyw/edit](https://docs.google.com/document/d/1nZM89dLVScEOivKzkZVfIboRbnT_xlIGIoQOcK9Ioyw/edit)"> Link to Resume <a/>
-         <img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" width="450">
+      
 
 <h3 align="left">Connect with me:</h3>
+           <img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" width="400">
 <p align="left">
 <a href="https://www.linkedin.com/in/manjari-mardikar-520161215/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -26,6 +27,7 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Noah" height="30"/></a>
 </p>
+          
 <h3>Language & Tools :<h3/>
   <h3 align="center">Language</h3>
 <p align="center">
