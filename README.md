@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manjari-mardikar-520161215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manjari-mardikar-520161215/" height="30" width="40" /></a>
 </p>
 <h3>Language & Tools :<h3/>
+  <h3 align="center">Language</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
