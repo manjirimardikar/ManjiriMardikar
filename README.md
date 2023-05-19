@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hola, Geeks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center"> 🌈 A passionate frontend developer ☄️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjirimardikar&label=Profile%20views&color=0e75b6&style=flat" alt="manjirimardikar" /> </p>
 
