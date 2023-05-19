@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Reactjs, JavaScript, HTML, CSS, JAVA**
 
-- 📫 How to reach me **manjari.mardikar28@gmail.com**
+- 📫 How to reach me  [Gmail](mailto:manjari.mardikar28@gmail.com)
 <img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" width="500">
 
 
